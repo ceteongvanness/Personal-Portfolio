@@ -36,7 +36,6 @@ S3 (Simple Storage Service) is an object storage service that we'll use to host 
    - Search for "S3" in the services search bar
    - Click "Create bucket"
    - Enter a globally unique bucket name (e.g., "your-name-portfolio")
-   - Select the AWS Region closest to your target audience for better performance
    - Uncheck "Block all public access" (necessary for website hosting)
    - Acknowledge the warning that appears
    - Keep other settings as default
