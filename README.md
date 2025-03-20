@@ -58,6 +58,7 @@ For detailed AWS deployment instructions, see the [AWS Deployment Guide](AWS-DEP
 
 ```
 personal-portfolio/
+├── .github/               # GitHub configuration files
 ├── assets/                # Static assets
 │   ├── css/               # CSS stylesheets
 │   ├── images/            # Image files
