@@ -25,8 +25,8 @@ This project is based on the original work by codewithsadee. Credit goes to the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ceteongvanness/vcard-personal-portfolio.git
-   cd vcard-personal-portfolio
+   git clone https://github.com/ceteongvanness/Personal-Portfolio.git
+   cd Personal-Portfolio
    ```
 
 2. Open `index.html` in your browser to view the site.
@@ -47,12 +47,6 @@ You can deploy this portfolio website using various hosting options:
 4. Optionally connect a custom domain using Route 53
 
 For detailed AWS deployment instructions, see the [AWS Deployment Guide](AWS-DEPLOYMENT.md).
-
-#### Other Hosting Options
-- GitHub Pages
-- Netlify
-- Vercel
-- Any static web hosting service
 
 ## 📁 Project Structure
 
