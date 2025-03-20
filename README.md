@@ -25,7 +25,7 @@ This project is based on the original work by codewithsadee. Credit goes to the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ceteongvanness/Personal-Portfolio.git
+   git clone https://github.com/ceteongvanness/personal-portfolio.git
    cd Personal-Portfolio
    ```
 
