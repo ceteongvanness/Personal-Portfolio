@@ -99,7 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔖 Credits and Acknowledgements
 This project is forked from codewithsadee/vcard-personal-portfolio. Please visit the original repository for the source code and to support the original creator.
-Original author: Sadee
+
+Original author: [Sadee](https://github.com/codewithsadee/vcard-personal-portfolio)
 
 ## 🤝 Contributing
 
